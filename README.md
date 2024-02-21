@@ -1,7 +1,8 @@
 
-![image](https://github.com/aditya0929/event_you-/assets/127277877/8c0327a1-1605-45fc-acfc-3a01bcf436b0)
+![IMG-20240219-WA0016](https://github.com/aditya0929/event_you-/assets/127277877/72fc599b-c3ab-4fa5-b322-0b9c8532b032)
 
-## problem statement for genesis
+
+## problem statement for genesisX
 
 ### 1. Develop a data-driven solution to enhance healthcare supply chain efficiency, focusing on demand forecasting, resilience to disruptions, inventory management, supplier performance analysis, and technology integration. Conduct exploratory data analysis on a provided dataset, presenting visualizations to support insights and proposed optimizations.
 
